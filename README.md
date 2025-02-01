@@ -6,7 +6,7 @@ This project aims to predict fitness levels using machine learning techniques. T
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/Mohamed25092003/Fitness-level-prediction-system.git
    ```
 
 ## Usage
