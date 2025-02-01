@@ -8,14 +8,6 @@ This project aims to predict fitness levels using machine learning techniques. T
    ```sh
    git clone <repository_url>
    ```
-2. Navigate to the project directory:
-   ```sh
-   cd fitness_level_prediction
-   ```
-3. Install required dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 Run the Jupyter Notebook:
@@ -35,11 +27,6 @@ Follow the steps in the notebook to load data, preprocess it, train the model, a
 
 ## Project Structure
 - `fitness_level_prediction.ipynb` - Main notebook with code and analysis.
-- `requirements.txt` - List of required dependencies.
 
-## Contributors
-- [Your Name]
 
-## License
-This project is licensed under the MIT License.
 
